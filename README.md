@@ -1,27 +1,27 @@
 # 100Day-Challange
 
-i made a simple plan to go further and become more profisional in the ui / ux desgin 
-i will focus only on 4 main aspect 
+  i made a simple plan to go further and become more profisional 
+  i will focus only on 4 main aspect 
 
 ## UI
 
-i will improve my UI desgin in the course of 100 day 
+  i will improve my UI desgin in the course of 100 day 
 by making 1 project each week 
 
 ## UX 
 
-i am very good at excellent at ux but i need more practical and more reading 
+  i am very good at excellent at ux but i need more practical and more reading 
 so i will read 5 article per day 
 
 ## English
 
-i am very good at speaking and listing 
+  i am very good at speaking and listing 
 but i need to make more effort in writing and reading 
 i will focus on writing course and read book every week on ux ( feeding two cats with the same dish )
 
 ## Health
 
-i will focus on being plant based diet 
+  i will focus on being plant based diet 
 
 # the challange expected outcome 
 
@@ -34,8 +34,8 @@ i will focus on being plant based diet
 ## Resources 
 
 ### UI 
-all the inspiriation is from behance 
-
+  all the inspiriation is from behance 
+ 
 ### UX 
 
 1. uxplanet 
@@ -44,7 +44,7 @@ all the inspiriation is from behance
 
 ### English 
 
-Grammer resources 
+  Grammer resources 
 
 1.  https://www.engvid.com/
 2. https://learnenglish.britishcouncil.org/grammar
@@ -53,6 +53,7 @@ Grammer resources
 5. https://www.youtube.com/user/VOALearningEnglish/playlists
 
 writing
+
 i have one course 
 1. https://www.youtube.com/watch?v=KxDwieKpawg&list=PLlH_3Rg-KNr-5J-0Wj74Swr_A7JmEJEzs
 2. https://www.youtube.com/watch?v=_c7caeFcYfw&list=PLzLHunnjEdX-YLYtSFgTfVJovtc8I4prp
