@@ -60,3 +60,20 @@ i have one course
 3. https://www.youtube.com/watch?v=86x-u-tz0MA&list=PLMuDEsQeTn2sJtwa8G726Qc6MV9Mj3u4F
 https://www.youtube.com/channel/UCAQg09FkoobmLquNNoO4ulg/playlists
 
+#### Books i should Read 
+
+1.  the desgin of everything 
+2.  don't make me think
+3. 100 thing everyday desgin
+4. the elments of user experience
+5. About face : the essintial of interaction desgin
+6. the user expeirence team of one
+7. universal principle of desgin
+8. measuring the ux : collecting , analysis
+9.  lean ux : applying lean principle 
+10. emotional desgin 
+11. a project guide to ux desgin
+12. rocket surgery made easy
+13. intreviewing user : how to uncover complleting 
+14. Hooked : how to build a habit 
+15. the best interface is no interface 
